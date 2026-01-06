@@ -114,10 +114,10 @@ Swagger UI: https://localhost:7029/swagger
 ### 🔹 Step 3: Frontend Setup (Angular)
 
 1. Open the `Frontend` folder in **VS Code**
-2. Install dependencies:
-   ```bash
+2. Install dependencies
+   ```
    npm install
-   
+   ```
 Start Angular application
 ```
 ng serve
